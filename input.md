@@ -1,20 +1,5 @@
-> <img src="./lscice2z.png"
-> style="width:0.91917in;height:0.91917in" /><img src="./4iyznmtr.png"
-> style="width:1.13194in;height:0.10764in" /><img src="./ebhjqsee.png"
-> style="width:1.15365in;height:0.16753in" /><img src="./mjvfzpzm.png"
-> style="width:0.41406in;height:0.10764in" />НАУЧНЫЙ ДОКЛАД №12,
-> 2021<img src="./ocyb3nrb.png"
-> style="width:0.13455in;height:0.1059in" /><img src="./q5fjwaqv.png"
-> style="width:0.2092in;height:0.10851in" /><img src="./ug5eo1tm.png" style="width:0.43576in" /><img src="./tko55c53.png" style="width:1.12413in" /><img src="./dg5hsryz.png" style="width:0.79861in" /><img src="./dvs3rhir.png" style="width:0.34288in" />
->
-> <img src="./2axsxrca.png"
-> style="width:8.29374in;height:7.00255in" />КНЯЖЕСТВО ВАХАН В XIX ВЕКЕ:
-> **РАСПАД** **И** **РАЗДЕЛЕНИЕ**
->
-> <img src="./0dg1n2bx.png"
-> style="width:1.45669in;height:1.45669in" />Абдулмамад Илолиев
->
-> Княжество Вахан в XIX веке: распад и разделение
+
+# Княжество Вахан в XIX веке: распад и разделение
 
 **Отдел** **по** **культурному** **наследию** **и** **гуманитарным**
 **наукам** **Научный** **доклад** **№12**
